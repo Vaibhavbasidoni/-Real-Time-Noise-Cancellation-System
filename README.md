@@ -29,7 +29,7 @@ noise-cancellation-system
 ## Setup Instructions
 1. Clone the repository:
    ```
-   git clone <repository-url>
+   git clone https://github.com/Vaibhavbasidoni/-Real-Time-Noise-Cancellation-System.git
    ```
 2. Navigate to the project directory:
    ```
