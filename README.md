@@ -1,4 +1,3 @@
-# README.md
 
 # Real-Time Noise Cancellation System
 
